@@ -3,8 +3,6 @@
 Test for junior python developer
 Company: airsorted
 
-Text: https://github.com/txemac/test_airsorted/blob/master/TechnicalPre-InterviewTask.pdf
-
 # AirSorted Technical Interview Task
 ## Notes
 You are free to use your language of choice, but we would prefer you to use either Python or Ruby. There are no restrictions aside from those specified within the task description.
