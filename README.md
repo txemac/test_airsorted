@@ -11,7 +11,7 @@ You are free to use your language of choice, but we would prefer you to use eith
 
 If you have any questions about the task, please ask b efore you start!
 
-## Task ‐ t ime limit is ONE HOUR
+## Task ‐ time limit is ONE HOUR
 
 Implement a method which accepts a list of booking start and end dates, along with a specific month, and returns a list of all the days within that month that aren’t already booked. You should also provide a way to test the method.
 
@@ -49,6 +49,18 @@ In order to obtain bonus points within the allowed hour, you may consider some (
   - 5. A method to print out a full year $  cal output for the input data specified ­ including all bookings.
 
 Both 3 and 4 may output in HTML format, if necessary.
+
+# Execute
+Install requeriments:
+```sh
+pip install -r ./requeriments.txt
+```
+
+Execute tests with nosetests:
+```sh
+nosetests -v tests/tests.py
+```
+
 
 # Author
 Jose Bermudez
